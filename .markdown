@@ -1,0 +1,14 @@
+# the project template without  framework
+
+
++ src [source code of the project]
+    +  assets [assets Resources of the project ]
+        + img [the imgaes catalogue of the project]
+        + ....
+    +  styles [the styles catalogue of the project]
+        + reset.css [the reset css of the project]
+        + main.css [the main css of the project]
+    +  runner [the runner enviroment of the project thats we need]
+        + ......
+    +  main [the project main]
+        + main.js [entry js of the project]
